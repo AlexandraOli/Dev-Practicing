@@ -1,4 +1,3 @@
-![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130535063-b9e86a2e-2796-4a37-ac7b-476bcbe535b5.png)
 # Dev Practicing
 
 
@@ -6,4 +5,21 @@
 <p>
  O Journey é um site de viagem focado em um bom design e fácil usabilidade para o usuário, com intuito de um design responsivo.
 </p>
-![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130534804-9c13d59a-9655-406e-9b5e-8c8c7c3a20db.png)
+![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130535063-b9e86a2e-2796-4a37-ac7b-476bcbe535b5.png)
+
+<br>
+<br>
+<br>
+
+<h3> <strong> Objetivo do projeto: </strong> </h3>
+<p>O intuito inicial do projeto é desafiar e ampliar os conhecimentos através do que é necessário para área de desenvolvimento Web.<br>
+Por meio desse projeto surgem dúvidas sobre como executar certos objetivos desenvolvidos através dos rascunhos produzidos através do Software Figma. Todos os desafios que<br> surgem ao longo do projeto atribuem conhecimento.<br>
+ <h3> <strong>*Habilidades:</strong> </h3> <br>
+➢ Linguagem de marcação: HTML e CSS;<br>
+➢ Linguagem de Programação: JavaScript;<br>
+➢ Software Figma ( Para prototipagem do design das páginas web - Projetos);<br>
+➢ Software GitHub;<br>
+
+<h3> <strong>*Objetivos profissional:</strong> </h3> <br>
+➢ Desenvolvimento web front-end.</p>
+
