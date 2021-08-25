@@ -11,7 +11,7 @@
 ![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130535526-284416f2-2658-469e-90ec-b409abe7c975.png)
 
  <h4>Versão Mobile:</h4>
-https://user-images.githubusercontent.com/68356354/130714673-8660974e-d719-4fc0-9806-927835fff609.png
+![ResponsivoMobile_journey](https://user-images.githubusercontent.com/68356354/130714904-dd84029e-974c-40c2-8ce6-a09e143fae4d.png)
 
 <br>
 <br>
