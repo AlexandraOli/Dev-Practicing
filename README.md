@@ -8,7 +8,8 @@
 ![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130535526-284416f2-2658-469e-90ec-b409abe7c975.png)
 
  <h4>Paginação Pagina de Login - Software Figma<h4> <br>
-![Paginação home_page](https://user-images.githubusercontent.com/68356354/130834155-aeebdccb-ba1c-4f3d-8335-82b8ce2d948b.PNG)
+![Paginação home_page](https://user-images.githubusercontent.com/68356354/130834201-c73d2236-4aef-4880-94ab-afc1ccec8315.PNG)
+
 
 
 <br>
