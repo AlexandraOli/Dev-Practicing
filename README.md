@@ -19,7 +19,7 @@
 <h3> <strong> Objetivo do projeto: </strong> </h3>
 <p>O intuito inicial do projeto é desafiar e ampliar os conhecimentos através do que é necessário para área de desenvolvimento Web.<br>
 Por meio desse projeto surgem dúvidas sobre como executar certos objetivos desenvolvidos através dos rascunhos produzidos através do Software Figma. Todos os desafios que surgem ao longo do projeto atribuem conhecimento.<br>
- <h3> <strong>*Habilidades:</strong> </h3> <br>
+ <h3> <strong>*Habilidades em desenvolvimento:</strong> </h3> <br>
 ➢ Linguagem de marcação: HTML e CSS;<br>
 ➢ Linguagem de Programação: JavaScript;<br>
 ➢ Software Figma ( Para prototipagem do design das páginas web - Projetos);<br>
