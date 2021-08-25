@@ -18,7 +18,7 @@
 }
 
 .card_yelow{
-   
+
  position:absolute;
  background-color: #FFC100;
  padding: 10px 70px 70px 10px;
@@ -111,8 +111,7 @@ img{
 
 footer{
     width: 1000%;
-    height: 5   00px;
+    height: 500px;
     margin-top: -93px;
     background-color: #FFC100;
 }
-
