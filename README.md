@@ -3,12 +3,13 @@
  O Journey é um site de viagem focado em um bom design e fácil usabilidade para o usuário, com intuito de um design responsivo.
 </p>
 
-<h4>Paginação Pagina de Login - Software Figma<h4> <br>
+<h4>Paginação/Pagina de Login - Software Figma<h4> <br>
 
 ![Screenshot_1 -  img_Paginação - Pagina inicial](https://user-images.githubusercontent.com/68356354/130535526-284416f2-2658-469e-90ec-b409abe7c975.png)
 
- <h4>Paginação Pagina de Login - Software Figma<h4> <br>
-![Uploading Screenshot_1.png…]()
+ <h4>Paginação/Pagina inicial - Software Figma<h4> <br>
+
+![Screenshot_1](https://user-images.githubusercontent.com/68356354/131200828-f48e633a-70ae-4d76-bb0d-984718581f89.png)
 
 
 
